@@ -1,4 +1,24 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Andhika 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-time Project Manager and Part-time Software Developer 💻!
+</h2> 
+
+I love the entire process of developing creative project.
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- JeniusHelp Chatbot Project
+
+## 🌱 I'm currently learning
+
+- Fiber (Go Framework)
+- Flutter
 
 <!--
 **vanestorz/vanestorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
