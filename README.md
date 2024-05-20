@@ -14,11 +14,13 @@ I love the entire process of developing creative project.
 ## 🔭 I'm currently working on
 
 - JeniusHelp Chatbot Project
+- JeniusHelp Omnichannel for Contact Centre
+- Jenius Marketing Automation Platform
 
 ## 🌱 I'm currently learning
 
-- Fiber (Go Framework)
-- Flutter
+- NextJS -> Money Tracker Application
+- Go Gin -> Money Tracker Application
 
 <!--
 **vanestorz/vanestorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
